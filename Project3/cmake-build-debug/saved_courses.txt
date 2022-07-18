@@ -1,3 +1,0 @@
-Introduction to French3:3#FREN112#French Language/letters, numbers, greetings, grammars, statements
-Introduction to programming:3#COMP133#Computer Science/algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
-Data Structures:4#COMP2421#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs

@@ -1,3 +1,0 @@
-Distance from Haifa to Tulkarem = 57
-Path:
-Tulkarem <--(57)-- Haifa

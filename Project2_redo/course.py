@@ -228,7 +228,6 @@ class AVLTree:
             return self._delete(node.course.course_code, node)
         return node
     
-    # print the courses in the tree in file with the format course_name:hours#course_code#department/topic1,topic2,topic3,...
     def save_data(self):
         self._print_courses_in_file(self.root)
 
